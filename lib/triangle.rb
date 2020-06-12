@@ -1,5 +1,5 @@
 class Triangle
-  def initialize(side_1, side2_length, side3_length)
+  def initialize(side_1, side_2, side_3)
     
   end 
 end
